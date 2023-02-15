@@ -13,7 +13,7 @@ and exception handling in synchronous and asynchronous operations.
 
 ## Usage
 
-### TryCatch.async()
+### `TryCatch.async()`
 
 Use the `async` method to wrap a `Future` operation and handle errors and
 exceptions that may occur during the operation's execution. You can set
@@ -34,7 +34,7 @@ TryCatch.async<int?>(
 );
 ```
 
-### TryCatch.sync()
+### `TryCatch.sync()`
 
 /// Use the `sync` method to wrap a synchronous operation and handle errors and
 /// exceptions that may occur during its execution. You can set callbacks to
