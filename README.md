@@ -8,7 +8,7 @@ A utility class that provides helper methods for performing error handling
 and exception handling in synchronous and asynchronous operations.
 
 ## Features
-- Peovides both asynchronous and synchronous methods
+- Provides both asynchronous and synchronous methods
 - Upfront handling of common cases from execution to success/failure
 
 ## Usage
