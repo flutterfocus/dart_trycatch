@@ -1,6 +1,6 @@
 # TryCatch
 
-![Flutter Focus Cover](assets/images/github-cover-trycatch.png)
+![Flutter Focus Cover](https://github.com/flutterfocus/packages-dart-trycatch/blob/main/assets/images/github-cover-trycatch.png?raw=true)
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-informational?style=flat&logo=youtube&logoColor=red&color=red)](https://youtube.com/@flutterfocus) [![Twitter Badge](https://img.shields.io/badge/@Twitter-Profile-informational?style=flat&logo=twitter&logoColor=lightblue&color=1CA2F1)](https://twitter.com/flutterfocus) [![Discord Badge](https://img.shields.io/discord/1048138797893828608?color=blue&label=Discord&logo=discord)](https://discord.gg/rx8mzKzjFM) [![Reddit](https://img.shields.io/reddit/user-karma/link/flutterfocus?style=flat&logo=reddit&label=Reddit)](https://reddit.com/user/flutterfocus)
 
