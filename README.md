@@ -4,8 +4,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-informational?style=flat&logo=youtube&logoColor=red&color=red)](https://youtube.com/@flutterfocus) [![Twitter Badge](https://img.shields.io/badge/@Twitter-Profile-informational?style=flat&logo=twitter&logoColor=lightblue&color=1CA2F1)](https://twitter.com/flutterfocus) [![Discord Badge](https://img.shields.io/discord/1048138797893828608?color=blue&label=Discord&logo=discord)](https://discord.gg/rx8mzKzjFM) [![Reddit](https://img.shields.io/reddit/user-karma/link/flutterfocus?style=flat&logo=reddit&label=Reddit)](https://reddit.com/user/flutterfocus)
 
-A utility class that provides helper methods for performing error handling
-and exception handling in synchronous and asynchronous operations.
+A utility class that provides helper methods for performing error handling and exception handling in synchronous and asynchronous operations.
 
 ## Features
 - Provides both asynchronous and synchronous methods
@@ -36,10 +35,10 @@ TryCatch.async<int?>(
 
 ### `TryCatch.sync()`
 
-/// Use the `sync` method to wrap a synchronous operation and handle errors and
-/// exceptions that may occur during its execution. You can set callbacks to
-/// handle different types of outcomes, such as `onSuccess` for successful
-/// operations, `onError` for unhandled exceptions, and others.
+Use the `sync` method to wrap a synchronous operation and handle errors and
+exceptions that may occur during its execution. You can set callbacks to
+handle different types of outcomes, such as `onSuccess` for successful
+operations, `onError` for unhandled exceptions, and others.
 
 ```dart
 TryCatch.sync<int?>(
