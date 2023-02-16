@@ -1,7 +1,7 @@
 name: ff_trycatch
 description: A utility class that provides helper methods for performing error handling and exception handling in synchronous and asynchronous operations.
 
-version: 1.0.1
+version: 1.0.3
 repository: https://github.com/flutterfocus/packages-dart-trycatch
 
 environment:
