@@ -75,9 +75,9 @@ class TryCatch {
 
       final result = await future.timeout(timeout);
 
-      if (result is List) {
+      if (result is List && result.isEmpty) {
         onEmpty?.call();
-      } else if (result is Map) {
+      } else if (result is Map && result.isEmpty) {
         onEmpty?.call();
       } else if (result == null) {
         onNull?.call();
@@ -135,9 +135,9 @@ class TryCatch {
     try {
       final result = operation.call();
 
-      if (result is List) {
+      if (result is List && result.isEmpty) {
         onEmpty?.call();
-      } else if (result is Map) {
+      } else if (result is Map && result.isEmpty) {
         onEmpty?.call();
       } else if (result == null) {
         onNull?.call();
